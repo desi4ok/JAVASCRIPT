@@ -1,0 +1,39 @@
+#input-field {
+    background: #284A6B;
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    color: #D18E3A;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+div {
+    width: 300px;
+   display: inline-block;
+   justify-content: center;
+}
+
+#eval {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    margin-left: 100px;
+}
+
+p {
+    background: #284A6B;
+    height: 30px;
+    width: 300px;
+    border: none;
+    color: #D18E3A;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    padding-top: 5px;
+}
